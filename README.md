@@ -13,10 +13,6 @@ I’m excited to collaborate on:
 - Full-stack applications for analytics and marketing tools  
 - Open-source projects in React, Node.js, or PHP  
 
-## 📫 Let's Connect  
-- Email: [your email here]  
-- LinkedIn: [your LinkedIn here]  
-
 ## 😄 Pronouns  
 She/Her  
 
